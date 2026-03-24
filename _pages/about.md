@@ -31,7 +31,7 @@ I am a second-year Master's student at School of Economics, Shanghai University 
 
 I am an incoming Ph.D student at University of Maryland, College Park.
 
-<zhuzhan0103@outlook.com> · [CV](./files/CV_Zhan_Zhu.pdf)
+<zhuzhan0103@outlook.com> · [CV](./assets/pdf/CV_Zhan_Zhu.pdf)
 
 ## Publications
 * **[Ekici's reclaim-proof allocations revisited](https://doi.org/10.1016/j.jmateco.2025.103170)**, [Qianfeng Tang](https://sites.google.com/view/qianfeng) and **Zhan Zhu**
